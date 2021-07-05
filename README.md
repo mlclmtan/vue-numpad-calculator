@@ -1,4 +1,5 @@
 # vue-numpad-stock-calculator
+https://mlclmtan.github.io/vue-numpad-calculator/
 
 ## Project setup
 ```
