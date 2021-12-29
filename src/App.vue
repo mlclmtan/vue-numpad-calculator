@@ -1,18 +1,21 @@
 <template>
   <div id="app">
     <Numpad />
+    <Table />
   </div>
 </template>
 
 <script>
-import Numpad from './components/Numpad.vue'
+import Numpad from "./components/Numpad";
+import Table from "./components/Table";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    Numpad
+    Numpad,
+    Table
   }
-}
+};
 </script>
 
 <style>
